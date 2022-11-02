@@ -1,0 +1,431 @@
+{
+  "product": "Distilling Recipes",
+  "author": "West Coast Digital",
+  "description": "A collection of distillation mash recipes curated from worldwide contributors that you can convert into your local units and adjust the volume to your requirements.",
+  "version": 1,
+  "releaseDate": "2022-10-27T16:00:00.000Z",
+  "recipes": [
+    {
+      "id": "tffv",
+      "name": "Teddy’s Fast Fermenting Vodka",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 23,
+          "measurement": "litre"
+        },
+        {
+          "name": "wheat bran",
+          "qty": 0.25,
+          "measurement": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 4,
+          "measurement": "kg"
+        },
+        {
+          "name": "multivitamin tablet",
+          "qty": 1,
+          "measurement": "each"
+        },
+        {
+          "name": "dap",
+          "qty": 0.5,
+          "measurement": "tsp"
+        },
+        {
+          "name": "yeast",
+          "qty": 50,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "ujssm",
+      "name": "UJSSM",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 19,
+          "measurement": "litre"
+        },
+        {
+          "name": "cracked corn",
+          "qty": 3.2,
+          "measurement": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 3.2,
+          "measurement": "kg"
+        },
+        {
+          "name": "yeast",
+          "qty": 75,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "kale",
+      "name": "Kale",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 25,
+          "measurement": "litres"
+        },
+        {
+          "name": "kale",
+          "qty": 100,
+          "measurement": "grams"
+        },
+        {
+          "name": "sugar",
+          "qty": 5,
+          "measurement": "kg"
+        },
+        {
+          "name": "yeast",
+          "qty": 90,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "nutrigrain",
+      "name": "Nutrigrain",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 25,
+          "measurement": "litres"
+        },
+        {
+          "name": "nutrigrain",
+          "qty": 800,
+          "measurement": "grams"
+        },
+        {
+          "name": "sugar",
+          "qty": 5,
+          "measurement": "kg"
+        },
+        {
+          "name": "yeast",
+          "qty": 90,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "cornflake",
+      "name": "Cornflake",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 37,
+          "measurement": "litres"
+        },
+        {
+          "name": "cornflakes",
+          "qty": 750,
+          "measurement": "grams"
+        },
+        {
+          "name": "sugar",
+          "qty": 8,
+          "measurement": "kg"
+        },
+        {
+          "name": "lemon juice",
+          "qty": 2,
+          "measurement": "each"
+        },
+        {
+          "name": "yeast",
+          "qty": 5,
+          "measurement": "tsp"
+        },
+        {
+          "name": "backset",
+          "qty": 8,
+          "measurement": "tsp"
+        }
+      ]
+    },
+    {
+      "id": "weetbix",
+      "name": "Weetbix",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 21,
+          "measurement": "litres"
+        },
+        {
+          "name": "weetbix",
+          "qty": 3,
+          "measurement": "cups"
+        },
+        {
+          "name": "all bran",
+          "qty": 3,
+          "measurement": "cups"
+        },
+        {
+          "name": "citric acid",
+          "qty": 1,
+          "measurement": "tsp"
+        },
+        {
+          "name": "epsom salts",
+          "qty": 1.5,
+          "measurement": "tsp"
+        },
+        {
+          "name": "yeast",
+          "qty": 75,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "macrum",
+      "name": "Mac Rum",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 25,
+          "measurement": "litres"
+        },
+        {
+          "name": "raw sugar",
+          "qty": 3,
+          "measurement": "kg"
+        },
+        {
+          "name": "molasses",
+          "qty": 3,
+          "measurement": "litre"
+        },
+        {
+          "name": "epsom salts",
+          "qty": 0.5,
+          "measurement": "tsp"
+        },
+        {
+          "name": "yeast",
+          "qty": 80,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "hookrum",
+      "name": "Hook Rum",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 40,
+          "measurement": "litres"
+        },
+        {
+          "name": "dunder",
+          "qty": 20,
+          "measurement": "litres"
+        },
+        {
+          "name": "raw sugar",
+          "qty": 5,
+          "measurement": "kg"
+        },
+        {
+          "name": "molasses",
+          "qty": 7,
+          "measurement": "litre"
+        },
+        {
+          "name": "dap",
+          "qty": 2,
+          "measurement": "tsp"
+        },
+        {
+          "name": "yeast",
+          "qty": 150,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "macwhiskey",
+      "name": "Mac Whiskey",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 27,
+          "measurement": "litres"
+        },
+        {
+          "name": "ale/pilsner malt",
+          "qty": 1,
+          "measurement": "kg"
+        },
+        {
+          "name": "caramalt extract",
+          "qty": 1,
+          "measurement": "each"
+        },
+        {
+          "name": "epsom salts",
+          "qty": 0.5,
+          "measurement": "tsp"
+        },
+        {
+          "name": "yeast",
+          "qty": 20,
+          "measurement": "grams"
+        }
+      ]
+    },
+    {
+      "id": "wposw",
+      "name": "Wineos Plain Ole Sugar Wash",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 22.71,
+          "measurement": "litres"
+        },
+        {
+          "name": "citric acid",
+          "qty": 1,
+          "measurement": "tsp"
+        },
+        {
+          "name": "dap",
+          "qty": 1,
+          "measurement": "tsp"
+        },
+        {
+          "name": "gypsum",
+          "qty": 1,
+          "measurement": "tsp"
+        },
+        {
+          "name": "eepsom salts",
+          "qty": 0.5,
+          "measurement": "tsp"
+        },
+        {
+          "name": "yeast",
+          "qty": 0.5,
+          "measurement": "cup"
+        }
+      ]
+    },
+    {
+      "id": "tpw",
+      "name": "Tomato Paste Wash",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 25,
+          "measurement": "litres"
+        },
+        {
+          "name": "tomato paste",
+          "qty": 200,
+          "measurement": "grams"
+        },
+        {
+          "name": "sugar",
+          "qty": 5,
+          "measurement": "kg"
+        },
+        {
+          "name": "yeast",
+          "qty": 80,
+          "measurement": "gram"
+        },
+        {
+          "name": "epsom salts",
+          "qty": 0.01,
+          "measurement": "tsp"
+        },
+        {
+          "name": "multivitamin",
+          "qty": 1,
+          "measurement": "each"
+        },
+        {
+          "name": "citric acid",
+          "qty": 0.25,
+          "measurement": "tsp"
+        }
+      ]
+    },
+    {
+      "id": "stillitbourbon",
+      "name": "Still It Bourbon",
+      "ingredients": [
+        {
+          "name": "water",
+          "qty": 25,
+          "measurement": "litres"
+        },
+        {
+          "name": "cracked corn",
+          "qty": 4.7,
+          "measurement": "kg"
+        },
+        {
+          "name": "distillers malt (main mash)",
+          "qty": 2.75,
+          "measurement": "kg"
+        },
+        {
+          "name": "distillers malt (as amalayse)",
+          "qty": 2.75,
+          "measurement": "kg"
+        },
+        {
+          "name": "torrified wheat",
+          "qty": 0.5,
+          "measurement": "kg"
+        },
+        {
+          "name": "shepard's delight or extra special malt",
+          "qty": 0.5,
+          "measurement": "kg"
+        },
+        {
+          "name": "light chocolate malt",
+          "qty": 0.175,
+          "measurement": "kg"
+        },
+        {
+          "name": "sugar",
+          "qty": 5.8,
+          "measurement": "kg"
+        },
+        {
+          "name": "honey",
+          "qty": 0.25,
+          "measurement": "kg"
+        },
+        {
+          "name": "AM-1 yeast",
+          "qty": 40,
+          "measurement": "gram"
+        },
+        {
+          "name": "bakers yeast (if not using AM-1 yeast)",
+          "qty": 90,
+          "measurement": "gram"
+        }
+      ]
+    }
+  ]
+}
